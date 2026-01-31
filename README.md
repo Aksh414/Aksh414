@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Aksh414
-- 👀 I’m interested in ...software developing ,problem solving
-- 🌱 I’m currently learning ..python, web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Akshaya (@Aksh414)
 
-<!---
-Aksh414/Aksh414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 AI / ML enthusiast with hands-on experience in:
+- Chatbot development
+- Document search & summarization systems
+- ML-based Autism Detection (ongoing)
+
+💡 I enjoy working on problem-solving, AI pipelines, and learning how real-world ML systems behave beyond theory.
+
+🌱 Currently focusing on:
+- Python
+- Machine Learning
+- Open-source contribution
+
+🤝 I’m looking to collaborate on:
+- AI / ML open-source projects
+- Documentation & beginner-friendly ML improvements
+
+📫 How to reach me:
+- GitHub: @Aksh414
